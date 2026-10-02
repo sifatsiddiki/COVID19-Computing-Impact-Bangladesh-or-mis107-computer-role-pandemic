@@ -5,7 +5,7 @@ An academic assignment exploring the critical role of digital computer systems a
 ##  Project Overview
 This repository contains an academic research assignment written for the **Information System & Computing (MIS107)** course. The paper comprehensively analyzes how digital computing architectures, internet connectivity, and information systems allowed public and private sectors in Bangladesh to mitigate socio-economic disruptions during the strict COVID-19 lockdown phases starting in March 2020.
 
-### 🔍 Key Areas of Impact Analyzed
+### Key Areas of Impact Analyzed
 1. **Business Continuity & Remote Work:** Rapid implementation of work-from-home frameworks utilizing online video conferencing and remote collaboration tools.
 2. **Gig Economy & Remittances:** The acceleration of freelancing, blogging, and content creation (YouTubing), positioning Bangladesh as a prominent global hub for digital service exports.
 3. **Medical System Overhauls:** The vital reliance on computer-aided diagnostic infrastructure (CT scans, MRIs, X-rays) alongside emerging automated systems (AI diagnostics and robotics) for outbreak tracking and containment.
